@@ -1,42 +1,35 @@
-# Hi there my name is Mookgo
+# Hi there my name is Mookgo Lebaka 
 
 # About Me
-Hey there! I'm Mookgo Lebaka, a passionate Junior software developer intern with a love for creating innovative solutions. I thrive in collaborative environments and enjoy tackling challenging problems. Currently exploring the world of artificial intelligence and machine learning.
+As a Junior Software Developer and Digital illustrator, I possess an impressive arsenal of skills in React, JavaScript, Css and Html.
+I excel in designing and maintaining responsive websites that offer a smooth user experience.
+I am also a team player who thrives in collaborating with cross-functional teams to produce outstanding web applications.
 
 ## Education
-- B.Sc. in Computer Science, [Your University], [Year]
+- Diploma in Art and Design (Graphic Design), [Collage of Cape Town ],
 
 ## Work Experience
-- Software Engineer Intern at [Company], [Dates]
-- Web Developer at [Company], [Dates]
+- junior software Developer Intern at [Younglings]
+- Software Developer Intern at [Capaciti]
+- Orms Printroom, [Inkjet specialist and Designer]
+- Artlab, [Fine Art Manager]
+- Artlab,[Fine Art Assistant]
+- Artlab, [Fine Art Intern]
+
 
 ## Interests
-When I'm not coding, you can find me hiking in the mountains, experimenting with new recipes in the kitchen, or reading sci-fi novels.
+When I'm not coding or Illustrating/Desinging, you can find me  reading non-fiction novels.
 
 # Tech Stack
 Here's a glimpse of the technologies I frequently work with:
 
-- Languages: Python, JavaScript, Java
-- Frameworks: React, Flask, Spring Boot
-- Databases: MySQL, MongoDB
-- Tools: Git, Docker, VS Code
+- Languages: React, JavaScript, HTML and CSS.
+- Frameworks: React.
+- Tools: Git, WebStorm and VS Code
+- Design tools: Photoshop, Illustrator, figma, Canva, Procreate and Indesign
 
-# Projects
-Here are some projects I've worked on recently:
-
-1. **Project Name 1**
-   Description: Brief description of the project.
-   GitHub Repository: [Link](https://github.com/username/project1)
-
-2. **Project Name 2**
-   Description: Brief description of the project.
-   GitHub Repository: [Link](https://github.com/username/project2)
-
-3. **Project Name 3**
-   Description: Brief description of the project.
-   GitHub Repository: [Link](https://github.com/username/project3)
 
 # How to Get in Touch
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- Email:(mailto:mookgolebaka048@gmail.com)
+- LinkedIn:(https://www.linkedin.com/in/mookgo-lebaka-5377a0199/))
+- Behance:(https://www.behance.net/mookgolebaka)
