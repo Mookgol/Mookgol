@@ -30,8 +30,10 @@ Here's a glimpse of the technologies I frequently work with:
 
 
 # How to Get in Touch
-- Email:(mailto:mookgolebaka048@gmail.com)
-- LinkedIn:(https://www.linkedin.com/in/mookgo-lebaka-5377a0199/))
+
+- My Portfolio:(https://mookgo-lebaka.web.app/)
+- Email:(mookgolebaka048@gmail.com)
+- LinkedIn:(https://www.linkedin.com/in/mookgo-lebaka-5377a0199/)
 - Behance:(https://www.behance.net/mookgolebaka)
 
 
