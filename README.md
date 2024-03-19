@@ -9,12 +9,12 @@ I am also a team player who thrives in collaborating with cross-functional teams
 - Diploma in Art and Design (Graphic Design), [Collage of Cape Town ],
 
 ## Work Experience
-- junior software Developer Intern at [Younglings]
-- Software Developer Intern at [Capaciti]
-- Orms Printroom, [Inkjet specialist and Designer]
-- Artlab, [Fine Art Manager]
-- Artlab,[Fine Art Assistant]
-- Artlab, [Fine Art Intern]
+- Junior software Developer Intern at [Younglings] January 2024 – present 
+- Software Developer Intern at [Capaciti] July 2023 – January 2024
+- Inkjet specialist and Designer at [Orms Printroom and Framing] year November 2017 – January 2023
+- Fine Art Manager at [Artlab] April 2017 – November 2017 
+- Fine Art Assistance at [Artlab] January 2017 – March 2017
+- Fine Art Intern at [Artlab] November 2016 – January 2017
 
 
 ## Interests
