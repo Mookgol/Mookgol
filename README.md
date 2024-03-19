@@ -1,7 +1,7 @@
 # Hi there my name is Mookgo Lebaka 
 
 # About Me
-As a Junior Software Developer and Digital illustrator, I possess an impressive arsenal of skills in React, JavaScript, Css and Html.
+I am a Junior Software Developer Intern and Digital illustrator, I possess an impressive arsenal of skills in React, JavaScript, Css and Html.
 I excel in designing and maintaining responsive websites that offer a smooth user experience.
 I am also a team player who thrives in collaborating with cross-functional teams to produce outstanding web applications.
 
@@ -33,3 +33,6 @@ Here's a glimpse of the technologies I frequently work with:
 - Email:(mailto:mookgolebaka048@gmail.com)
 - LinkedIn:(https://www.linkedin.com/in/mookgo-lebaka-5377a0199/))
 - Behance:(https://www.behance.net/mookgolebaka)
+
+
+## Welcome to my GitHub and feel free to browse around on my digital Profile.
