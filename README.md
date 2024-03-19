@@ -1,3 +1,5 @@
+# Hi there my name is Mookgo
+
 # About Me
 Hey there! I'm Mookgo Lebaka, a passionate Junior software developer intern with a love for creating innovative solutions. I thrive in collaborative environments and enjoy tackling challenging problems. Currently exploring the world of artificial intelligence and machine learning.
 
